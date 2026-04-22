@@ -1,5 +1,3 @@
-# react-native-supabase-twilio-sms
-Sending SMS in React Native using Supabase Edge Functions &amp; Twilio
 # 📩 react-native-supabase-twilio-sms
 
 A secure SMS implementation in React Native using **Supabase Edge Functions** and **Twilio**.
